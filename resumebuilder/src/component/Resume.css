@@ -1,0 +1,52 @@
+h1 {
+  color: black;
+}
+.back {
+  margin-left: 600px;
+}
+#next {
+  margin-left: 470px;
+}
+#next2 {
+  margin-left: 630px;
+}
+.desc1 {
+  padding-right: 200px;
+}
+.desc2 {
+  padding-right: 550px;
+}
+.title {
+  padding-right: 175px;
+}
+.link {
+  padding-right: 175px;
+}
+.description {
+  padding-right: 175px;
+}
+#next3 {
+  margin-left: 255px;
+}
+.desc3 {
+  padding-right: 470px;
+}
+.desc4 {
+  padding-right: 470px;
+}
+#next4 {
+  margin-left: 790px;
+}
+#next5 {
+  margin-left: 740px;
+}
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
+}
+AppBar {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
